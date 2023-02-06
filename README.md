@@ -17,3 +17,7 @@ To edit the API/Server go to `server/app.js` and edit as much as you can and if 
 ## How to change the License and API name?
 
 Edit the `package.json` file to edit the names and Author also the license type. To change the license go to `LICENSE` file and edit the license
+
+## How to contribute
+
+Read [contribution.md](/contributing.md)
